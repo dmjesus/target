@@ -1,3 +1,3 @@
 # Target
 
-A tool to organize project tasks and evaluate it progress.
+A tool to organize project tasks and evaluate its progress.
